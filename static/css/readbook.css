@@ -1,0 +1,30 @@
+.book-details {
+    margin-top: 50px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+.book-cover {
+    width: 150px;
+    height: 200px;
+    background-color: #eee;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+.book-description {
+    font-size: 16px;
+    color: #555;
+}
+.btn-container {
+    margin-top: 20px;
+}
+/* Custom styling for the modal iframe */
+.pdf-modal .modal-body {
+    padding: 0;
+}
+.pdf-container {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
